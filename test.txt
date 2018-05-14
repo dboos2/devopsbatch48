@@ -1,26 +1,13 @@
 public class Factorial
-
 {
-
-public static void main(String[] args)
-
-	{
-	
-	int i,Factorial=1;
-	
-	
-	
-	for(i=6;i>=1;i--)
-	
-		{
-		
-		Factorial=Factorial*i;
-		
-		}
-	
-	System.out.println("Factorial of number is"+":"+Factorial);
-	
-	}
-
-
+public static void main(String[] args
+{
+int i,Factorial=1;	
+for(i=6;i>=1;i--)	
+{
+Factorial=Factorial*i;
 }
+System.out.println("Factorial of number is"+":"+Factorial);
+}
+}
+Code modified
